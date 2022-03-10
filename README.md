@@ -7,8 +7,3 @@ Sou um desenvolvedor Brasileiro 🇧🇷 que ama programar.
 
 💬 Instagram: @916felipy
 
-Linguagens:
-html5 css3 javascript
-
-Ferramentas:
-nodejs
