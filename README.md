@@ -1,9 +1,9 @@
 Olá 👋, Meu nome é Felipy
-Sou um desenvolvedor Brasileiro 🇧🇷 que ama programar.
+Sou um desenvolvedor Brasileiro 🇧🇷 que ama tecnologia e programação!
 
-🌱 Estou estudando JavaScript, CSS3 e HTML5
+🌱 Estou aperfeiçoando JavaScript, CSS3 e HTML5;
+☁️ Atualmente aprendendo Git e GitHub;
+⚡ Amo Front-End.
 
-⚡ Amo JavaScript.
 
-💬 Instagram: @916felipy
 
