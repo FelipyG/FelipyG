@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem vindo 👋</h1>
 <h3 align="center">Meu nome é Felipy e sou um desenvolvedor Brasileiro que ama tecnologia e inovação.</h3>
 
-- 🌱 Atualmente estou aprendendo **Media Query**
+- 🌱 Atualmente estou cursando **Engenharia de Software**, também estudando e praticando desenvolvimento **Front-End**
 
 - 📫 Contato: **felipygomes001@gmail.com**
 
